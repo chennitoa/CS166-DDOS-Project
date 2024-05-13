@@ -1,3 +1,6 @@
 [submodule "SYN-FLOOD"]
 	path = SYN-FLOOD
 	url = git@github.com:hdkainth/SYN-FLOOD.git
+[submodule "HTTP-FLOOD"]
+	path = HTTP-FLOOD
+	url = git@github.com:ejiro-codes/HTTP-FLOOD.git
