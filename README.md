@@ -1,6 +1,6 @@
 # CS 166: DDOS Defense
 
-By austin Chen, Austin Trinh, Ejiro Igun, Hardeep Kainth, Tomas Zamora
+By Austin Chen, Austin Trinh, Ejiro Igun, Hardeep Kainth, Tomas Zamora
 
 ## Instructions
 
